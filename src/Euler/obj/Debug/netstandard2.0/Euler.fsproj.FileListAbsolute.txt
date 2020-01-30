@@ -1,0 +1,8 @@
+/home/kllinzy/Repos/FSNetCore/src/Euler/obj/Debug/netstandard2.0/Euler.fsprojAssemblyReference.cache
+/home/kllinzy/Repos/FSNetCore/src/Euler/obj/Debug/netstandard2.0/Euler.AssemblyInfoInputs.cache
+/home/kllinzy/Repos/FSNetCore/src/Euler/obj/Debug/netstandard2.0/Euler.AssemblyInfo.fs
+/home/kllinzy/Repos/FSNetCore/src/Euler/bin/Debug/netstandard2.0/Euler.deps.json
+/home/kllinzy/Repos/FSNetCore/src/Euler/bin/Debug/netstandard2.0/Euler.dll
+/home/kllinzy/Repos/FSNetCore/src/Euler/bin/Debug/netstandard2.0/Euler.pdb
+/home/kllinzy/Repos/FSNetCore/src/Euler/obj/Debug/netstandard2.0/Euler.dll
+/home/kllinzy/Repos/FSNetCore/src/Euler/obj/Debug/netstandard2.0/Euler.pdb

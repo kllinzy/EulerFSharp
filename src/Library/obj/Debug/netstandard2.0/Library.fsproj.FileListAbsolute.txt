@@ -1,0 +1,8 @@
+/home/kllinzy/Repos/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/home/kllinzy/Repos/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.dll
+/home/kllinzy/Repos/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/home/kllinzy/Repos/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.fsprojAssemblyReference.cache
+/home/kllinzy/Repos/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/home/kllinzy/Repos/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.fs
+/home/kllinzy/Repos/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.dll
+/home/kllinzy/Repos/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.pdb
